@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "csv-write-stream": "^2.0.0",
     "dotenv": "^8.2.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.4",
     "request": "^2.88.2"
   }
